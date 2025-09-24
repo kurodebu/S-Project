@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5804c700e93ae0e42852f788ef378bea, type: 3}
+  m_Name: Bumi
+  m_EditorClassIdentifier: 
+  namaPlanet: Bumi
+  materi: Bumi adalah planet ketiga dari Matahari dan satu-satunya planet yang diketahui
+    memiliki kehidupan. Bumi memiliki atmosfer yang mendukung kehidupan dan air dalam
+    bentuk cair. Diameter Bumi sekitar 12.742 kilometer. Waktu rotasi Bumi adalah
+    24 jam dan waktu revolusi mengelilingi Matahari adalah 365 hari.
+  prefab3D: {fileID: 138176588724936722, guid: b761cafa319cfde45a3e895672cd0589, type: 3}

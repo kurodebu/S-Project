@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5804c700e93ae0e42852f788ef378bea, type: 3}
+  m_Name: Uranus
+  m_EditorClassIdentifier: 
+  namaPlanet: Uranus
+  materi: "Uranus adalah planet ketujuh dari Matahari yang berwarna biru muda. Suhu
+    di Uranus adalah yang terdingin di Tata Surya, sekitar -224\xB0C. Planet ini
+    memiliki cincin yang unik dan berputar secara vertikal. Diameter Uranus sekitar
+    50.724 kilometer. Waktu rotasi Uranus sekitar 17 jam 14 menit dan waktu revolusi
+    84 tahun. Uranus memiliki 27 satelit."
+  prefab3D: {fileID: 7690871283609597058, guid: cf50f5f76af7abd4d9c10d2a307711e7, type: 3}

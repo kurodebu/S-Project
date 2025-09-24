@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MateriSelect.unity
+    guid: 410e36ff8fd71ce4696062afc93b11a8
+  - enabled: 1
+    path: Assets/Scenes/QuizScene.unity
+    guid: d1d4631d62b8c264cb32573b37dcfef2
+  - enabled: 1
+    path: Assets/Scenes/Simulation3D.unity
+    guid: b5d640ef80501864ab4a78c1755ac1b6
+  - enabled: 1
+    path: Assets/Scenes/PuzzleGame.unity
+    guid: f6a7679b16243e547ad6afea3c2f11cc
+  - enabled: 1
+    path: Assets/Scenes/FaktaMenyenangkan.unity
+    guid: a5ebedde72d4981428d7b782db07777c
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

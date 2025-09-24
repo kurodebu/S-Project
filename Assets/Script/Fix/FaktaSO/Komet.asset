@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e2a04318c37d6d48b56950f0510a2e6, type: 3}
+  m_Name: Komet
+  m_EditorClassIdentifier: 
+  namaFakta: Komet
+  materi: Komet adalah benda langit yang tersusun dari es, debu, dan batuan yang
+    mengorbit Matahari dengan lintasan lonjong, dan saat mendekati Matahari, es di
+    dalamnya menguap sehingga membentuk kepala (koma) dan ekor bercahaya yang panjang.
+  prefab2D: {fileID: 5613774264905497419, guid: e471e0982135f8443ad6a2ae92eb7408, type: 3}

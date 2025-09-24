@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5804c700e93ae0e42852f788ef378bea, type: 3}
+  m_Name: Neptunus
+  m_EditorClassIdentifier: 
+  namaPlanet: Neptunus
+  materi: Neptunus adalah planet kedelapan dan terjauh dari Matahari. Warna Neptunus
+    biru gelap karena kandungan gas metana di atmosfernya. Diameter Neptunus sekitar
+    49.244 kilometer. Waktu rotasi Neptunus sekitar 16 jam dan waktu revolusi sekitar
+    165 tahun. Planet ini memiliki beberapa satelit dan cincin tipis.
+  prefab3D: {fileID: 7301262186062983575, guid: 012de1e2a35c8e44989e756e8a5f84f7, type: 3}

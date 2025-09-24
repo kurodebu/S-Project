@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5804c700e93ae0e42852f788ef378bea, type: 3}
+  m_Name: Jupiter
+  m_EditorClassIdentifier: 
+  namaPlanet: Jupiter
+  materi: Jupiter adalah planet terbesar di Tata Surya, berjarak sekitar 778 juta
+    kilometer dari Matahari. Diameter Jupiter sangat besar, sekitar 139.822 kilometer.
+    Permukaannya tertutup awan tebal yang terdiri dari 90% hidrogen dan 10% helium.
+    Jupiter memiliki waktu rotasi yang sangat cepat, hanya sekitar 9 jam 56 menit,
+    dan waktu revolusi sekitar 12 tahun. Planet ini memiliki sekitar 79 satelit dan
+    cincin tipis.
+  prefab3D: {fileID: 7985442085774256574, guid: d892dd4b3d6e22141a32f78af3cfdcde, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5804c700e93ae0e42852f788ef378bea, type: 3}
+  m_Name: Saturnus
+  m_EditorClassIdentifier: 
+  namaPlanet: Saturnus
+  materi: Saturnus adalah planet keenam dari Matahari yang terkenal dengan cincin
+    besar dan indah yang mengelilinginya. Cincin Saturnus tersusun dari bongkahan
+    es dan batu kecil. Warna Saturnus kuning pucat dan jaraknya ke Matahari sekitar
+    1,4 miliar kilometer. Diameter Saturnus sekitar 116.463 kilometer. Waktu rotasi
+    Saturnus sekitar 10 jam 42 menit dan waktu revolusi sekitar 29 tahun. Saturnus
+    memiliki sekitar 56 satelit.
+  prefab3D: {fileID: 5385191154397847364, guid: ceb33ff7082e7c640a8a4386f691c127, type: 3}

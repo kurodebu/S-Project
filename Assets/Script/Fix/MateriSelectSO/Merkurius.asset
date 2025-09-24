@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5804c700e93ae0e42852f788ef378bea, type: 3}
+  m_Name: Merkurius
+  m_EditorClassIdentifier: 
+  namaPlanet: Merkurius
+  materi: "Merkurius adalah planet terkecil dan terdekat dengan Matahari, dengan
+    jarak sekitar 57-58 juta kilometer. Permukaannya berbatu dan berwarna abu-abu.
+    Merkurius memiliki waktu rotasi sekitar 59 hari dan waktu mengelilingi Matahari
+    (revolusi) selama 88 hari. Suhu di siang hari sangat panas, mencapai 430\xB0C,
+    sedangkan di malam hari bisa turun hingga -180\xB0C."
+  prefab3D: {fileID: 7490691128818281591, guid: ec7d01c0e83903941bb9cb90f06e03e7, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e2a04318c37d6d48b56950f0510a2e6, type: 3}
+  m_Name: Meteoroid
+  m_EditorClassIdentifier: 
+  namaFakta: Meteoroid
+  materi: Meteoroid adalah batuan kecil di luar angkasa yang ukurannya lebih kecil
+    dari asteroid dan bergerak bebas dengan kecepatan tinggi mengelilingi Matahari
+    tanpa orbit tetap, biasanya berasal dari pecahan asteroid, komet, atau benda
+    langit lain.
+  prefab2D: {fileID: 7729454078282558398, guid: e6a0142b8e6c9de41b9dc208ffba534e, type: 3}

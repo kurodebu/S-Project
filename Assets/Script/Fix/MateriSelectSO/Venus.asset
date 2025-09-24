@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5804c700e93ae0e42852f788ef378bea, type: 3}
+  m_Name: Venus
+  m_EditorClassIdentifier: 
+  namaPlanet: Venus
+  materi: Venus adalah planet kedua dari Matahari, berjarak sekitar 108 juta kilometer.
+    Venus sering disebut bintang fajar atau bintang senja karena sering terlihat
+    saat pagi atau sore hari. Planet ini berwarna putih kekuningan dan memiliki waktu
+    rotasi sekitar 243 hari serta waktu revolusi 225 hari. Uniknya, Venus berputar
+    berlawanan arah dengan planet lain.
+  prefab3D: {fileID: 8112369794841895871, guid: 23b91e412d16bcc488c4449768618969, type: 3}

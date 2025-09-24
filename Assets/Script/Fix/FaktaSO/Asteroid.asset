@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e2a04318c37d6d48b56950f0510a2e6, type: 3}
+  m_Name: Asteroid
+  m_EditorClassIdentifier: 
+  namaFakta: Asteroid
+  materi: Asteroid adalah benda langit berbatu yang lebih kecil dari planet dan berasal
+    dari sisa awan pembentuk tata surya, yang mengorbit Matahari terutama di antara
+    planet Mars dan Jupiter dalam sabuk asteroid.
+  prefab2D: {fileID: 5573100357519230089, guid: 411ac7d3711b44247b31679b97dde32d, type: 3}

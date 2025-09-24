@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5804c700e93ae0e42852f788ef378bea, type: 3}
+  m_Name: Mars
+  m_EditorClassIdentifier: 
+  namaPlanet: Mars
+  materi: Mars adalah planet keempat dari Matahari dengan jarak sekitar 227 juta
+    kilometer. Mars dikenal sebagai planet merah karena permukaannya yang berwarna
+    kemerahan akibat kandungan oksida besi. Diameter Mars sekitar 6.779 kilometer.
+    Waktu rotasi Mars hampir sama dengan Bumi, yaitu sekitar 24 jam 37 menit, dan
+    waktu revolusinya sekitar 687 hari. Mars memiliki dua satelit kecil bernama Phobos
+    dan Deimos.
+  prefab3D: {fileID: 341107879529757416, guid: ed1c1e4c0f635dd45bcef67cf45f6e9d, type: 3}
